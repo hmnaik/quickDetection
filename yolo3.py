@@ -1,4 +1,4 @@
-# YOLO object detection
+# YOLO object detection : Process video 
 import cv2 as cv
 import numpy as np
 import time
